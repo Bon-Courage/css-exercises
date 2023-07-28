@@ -1,0 +1,18 @@
+.super {
+    background-color: lightcoral;
+    font-family: Verdana, "dejaVu Sans", Tahoma, sans-serif;
+}
+
+#luigi {
+    font-weight: bold;
+    background-color: lightgreen;
+}
+
+#bowser {
+    color: blue;
+    font-size: 36px;
+}
+
+.mario {
+    font-size: 24px;
+}

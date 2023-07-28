@@ -1,0 +1,14 @@
+.mario,
+.luigi {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mario {
+    color: white;
+    background-color: black;
+}
+
+.luigi {
+    background-color: yellow;
+}
